@@ -1,0 +1,5 @@
+jupyter
+tensorflow==1.8.0
+click
+matplotlib
+
